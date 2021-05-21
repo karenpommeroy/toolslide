@@ -17,12 +17,12 @@ Several quick start options are available:
 #### Download the latest build
 
 ###### Development
- * [toolslide.js](https://raw.githubusercontent.com/karenpommeroy/toolslide.js/master/dist/js/toolslide.js)
- * [toolslide.css](https://raw.githubusercontent.com/karenpommeroy/toolslide.js/master/dist/css/toolslide.css)
+ * [toolslide.js](https://raw.githubusercontent.com/karenpommeroy/toolslide.js/master/dist/toolslide.js)
+ * [toolslide.css](https://raw.githubusercontent.com/karenpommeroy/toolslide.js/master/dist/toolslide.css)
 
 ###### Production
- * [toolslide.min.js](https://raw.githubusercontent.com/karenpommeroy/toolslide.js/master/dist/js/toolslide.min.js)
- * [toolslide.min.css](https://raw.githubusercontent.com/karenpommeroy/toolslide.js/master/dist/css/toolslide.min.css)
+ * [toolslide.min.js](https://raw.githubusercontent.com/karenpommeroy/toolslide.js/master/dist/toolslide.min.js)
+ * [toolslide.min.css](https://raw.githubusercontent.com/karenpommeroy/toolslide.js/master/dist/toolslide.min.css)
 
 #### Install From Bower
 ```sh
